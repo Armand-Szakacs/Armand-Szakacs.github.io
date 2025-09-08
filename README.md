@@ -1,2 +1,2 @@
-# Armand-Szakacs.github-io
+# Armand-Szakacs.github.io
 My Website
